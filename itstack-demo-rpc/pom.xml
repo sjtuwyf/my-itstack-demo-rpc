@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>itstack-demo-rpc-01</module>
+        <module>itstack-demo-rpc-02</module>
     </modules>
 
     <packaging>pom</packaging>
